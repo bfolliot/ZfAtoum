@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zend-mvc": "2.2.5",
+        "zendframework/zend-mvc": ">=2.2.5",
         "atoum/atoum" : "dev-master"
     },
     "autoload": {
